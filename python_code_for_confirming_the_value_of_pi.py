@@ -1,5 +1,5 @@
 #The project confirms the value of pi in mathematics by finding the perimeter of polygon of sides 1 to 100 inscribed within a circle of radius 1 to 5 units. Using graphical representation and mathematical analysis, value of pi can be confirmed.
-# This project was performed by Raj Vijay Shethna on January 28, 2025.
+# This project was executed by Raj Vijay Shethna on January 28, 2025.
 
 import numpy as np
 import pandas as pd
